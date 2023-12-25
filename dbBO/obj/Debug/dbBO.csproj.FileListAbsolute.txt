@@ -26,3 +26,7 @@ C:\dbBO\dbBO\obj\Debug\pen.g.cs
 C:\dbBO\dbBO\obj\Debug\pen.baml
 C:\dbBO\dbBO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 C:\dbBO\dbBO\obj\Debug\dbBO.csproj.Fody.CopyLocal.cache
+C:\dbBO\dbBO\bin\Debug\dbBO.exe.manifest
+C:\dbBO\dbBO\bin\Debug\dbBO.application
+C:\dbBO\dbBO\obj\Debug\dbBO.exe.manifest
+C:\dbBO\dbBO\obj\Debug\dbBO.application
