@@ -18,6 +18,7 @@
     <Deterministic>true</Deterministic>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+<<<<<<< HEAD
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -34,6 +35,8 @@
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
+=======
+>>>>>>> 1fd1d163ea52cc6462765f6337e9ddb09e681274
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -54,6 +57,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+<<<<<<< HEAD
   <PropertyGroup>
     <ManifestCertificateThumbprint>23D69366F9B97588F6651C2E2C55167BA4917439</ManifestCertificateThumbprint>
   </PropertyGroup>
@@ -66,6 +70,8 @@
   <PropertyGroup>
     <SignManifests>true</SignManifests>
   </PropertyGroup>
+=======
+>>>>>>> 1fd1d163ea52cc6462765f6337e9ddb09e681274
   <ItemGroup>
     <Reference Include="Costura, Version=5.7.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Costura.Fody.5.7.0\lib\netstandard1.0\Costura.dll</HintPath>
@@ -288,7 +294,10 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+<<<<<<< HEAD
     <None Include="dbBO_TemporaryKey.pfx" />
+=======
+>>>>>>> 1fd1d163ea52cc6462765f6337e9ddb09e681274
     <None Include="dbG.db" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -311,6 +320,7 @@
   <ItemGroup>
     <Resource Include="лого2.png" />
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
       <Visible>False</Visible>
@@ -323,6 +333,8 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+=======
+>>>>>>> 1fd1d163ea52cc6462765f6337e9ddb09e681274
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
